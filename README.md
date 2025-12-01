@@ -1,1 +1,1 @@
-# GitHub_Bot
+# AutoEmail_Bot
